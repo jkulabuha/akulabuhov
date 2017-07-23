@@ -6,13 +6,13 @@ import java.io.PrintStream;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
 
-/**
-*Test
-*
-*@author akulabuhov (mailto:jkulabuha@yandex.ru)
-*@version $ld$
-*@since 0.1
-*/
+	/**
+	*Test.
+	*
+	*@author akulabuhov (mailto:jkulabuha@yandex.ru)
+	*@version $ld$
+	*@since 0.1
+	*/
 public class CalculateTest {
 	/**
 	* Test add.
@@ -31,5 +31,5 @@ public class CalculateTest {
 				)
 			)
 		);
-	}	
+	}
 }
