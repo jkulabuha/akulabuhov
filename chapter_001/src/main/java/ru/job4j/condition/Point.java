@@ -43,6 +43,6 @@ public class Point {
 	* @return возвращает true если точка принадлежит или false если не принадлежит.
 	*/
 	public boolean is(int a, int b) {
-		return this.y == a * this.x + b ? true : false;
+		return this.y == a * this.x + b;
 	}
 }
