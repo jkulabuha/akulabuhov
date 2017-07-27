@@ -1,8 +1,8 @@
 /**
-* Package for Point.
+* Package for Point, Triangle.
 *
 * @author akulabuhov (mailto:jkulabuha@yandex.ru)
-* @version 1
-* @since 25.07.2017
+* @version 2
+* @since 27.07.2017
 */
 package ru.job4j.condition;

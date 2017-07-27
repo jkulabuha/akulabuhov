@@ -1,5 +1,5 @@
 /**
-* Package for PointTest.
+* Package for PointTest and TriangleTest.
 *
 * @author akulabuhov (mailto:jkulabuha@yandex.ru)
 * @version 1
